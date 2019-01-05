@@ -1,0 +1,12 @@
+#참조
+https://velopert.com/3613
+
+#설정
+npm install -g create-react-app
+
+#생성 - react 프로젝트 설치
+create-react-app react-test
+
+#start - 서버 시작
+cd react-test
+npm start
